@@ -421,5 +421,10 @@ DP का फायदा:
 • Time Complexity: \(O(n)\) 🚀 (जो काम बिना DP के अरबों स्टेप्स ले रहा था, वह अब सिर्फ 50 स्टेप्स में पलक झपकते ही हल हो गया!)
 • Space Complexity: \(O(n)\) (डायरी में डेटा स्टोर करने और Call Stack के लिए)।
 इसे ही कहते हैं Dynamic Programming—पुरानी मेहनत को याद रखकर समय बचाना!
-क्या आप इस कोड के काम करने के तरीके (डायरी मैकेनिज्म) को समझने में कोई उलझन महसूस कर रहे हैं, या अब आप Big O और DSA का एक छोटा सा लाइव मॉक टेस्ट (Quiz) देने के लिए तैयार हैं?
+
+<img width="3024" height="4032" alt="IMG_1973" src="https://github.com/user-attachments/assets/2543ce1c-f8d9-418b-92a2-c26269973dca" />
+<img width="3024" height="4032" alt="IMG_1972" src="https://github.com/user-attachments/assets/994def0a-3e5e-48c8-909a-74c7776e6be5" />
+<img width="3024" height="4032" alt="IMG_1971" src="https://github.com/user-attachments/assets/c08d9c13-d097-4309-8933-0c867d71d708" />
+<img width="2788" height="4030" alt="IMG_1970" src="https://github.com/user-attachments/assets/44386474-2863-4ada-a47f-41364ec4ab2e" />
+<img width="2517" height="3446" alt="IMG_1969" src="https://github.com/user-attachments/assets/633a06dc-2475-4fe1-81b5-02471d0032f6" />
 
