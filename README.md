@@ -1,5 +1,11 @@
 # BigO Notation
-## Training material in native language for univeristy students
+## Training material
+
+<img width="2517" height="3446" alt="IMG_1969" src="https://github.com/user-attachments/assets/633a06dc-2475-4fe1-81b5-02471d0032f6" />
+<img width="2788" height="4030" alt="IMG_1970" src="https://github.com/user-attachments/assets/44386474-2863-4ada-a47f-41364ec4ab2e" />
+<img width="3024" height="4032" alt="IMG_1971" src="https://github.com/user-attachments/assets/c08d9c13-d097-4309-8933-0c867d71d708" />
+<img width="3024" height="4032" alt="IMG_1972" src="https://github.com/user-attachments/assets/994def0a-3e5e-48c8-909a-74c7776e6be5" />
+<img width="3024" height="4032" alt="IMG_1973" src="https://github.com/user-attachments/assets/2543ce1c-f8d9-418b-92a2-c26269973dca" />
 
 Big O Notation को एकदम सरल भाषा में समझें: यह एक ऐसा मीटर है जो बताता है कि जब आपके प्रोग्राम में डेटा (Data) बढ़ेगा, तो आपका कोड कितना धीमा होगा या कितनी मेमोरी लेगा।
 इसे कंप्यूटर की भाषा में मापने के बजाय (जैसे- मिलिसेकंड या MB, जो हर कंप्यूटर पर अलग हो सकते हैं) हम "स्टेप्स" (Steps) में मापते हैं।
@@ -422,9 +428,4 @@ DP का फायदा:
 • Space Complexity: \(O(n)\) (डायरी में डेटा स्टोर करने और Call Stack के लिए)।
 इसे ही कहते हैं Dynamic Programming—पुरानी मेहनत को याद रखकर समय बचाना!
 
-<img width="3024" height="4032" alt="IMG_1973" src="https://github.com/user-attachments/assets/2543ce1c-f8d9-418b-92a2-c26269973dca" />
-<img width="3024" height="4032" alt="IMG_1972" src="https://github.com/user-attachments/assets/994def0a-3e5e-48c8-909a-74c7776e6be5" />
-<img width="3024" height="4032" alt="IMG_1971" src="https://github.com/user-attachments/assets/c08d9c13-d097-4309-8933-0c867d71d708" />
-<img width="2788" height="4030" alt="IMG_1970" src="https://github.com/user-attachments/assets/44386474-2863-4ada-a47f-41364ec4ab2e" />
-<img width="2517" height="3446" alt="IMG_1969" src="https://github.com/user-attachments/assets/633a06dc-2475-4fe1-81b5-02471d0032f6" />
 
